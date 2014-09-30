@@ -1,6 +1,13 @@
-body
-{ 
-font-family: cambria;
-Background-color : Green
-
+p{color:red;}
+.second
+{
+color:red;
+Font-weight:bold;
+text-decoration:underline;
+text-shadow:2px 2px red;
 }
+span:hover 
+{color blue;
+}
+#josh {color:red;}
+.josh  {color:green;}
